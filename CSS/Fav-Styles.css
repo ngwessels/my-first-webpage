@@ -1,0 +1,17 @@
+html{
+  text-align: center;
+
+}
+
+h1 {
+  color: green;
+}
+h2{
+  color: red;
+}
+
+ul{
+  color: blue;
+  list-style-type:none;
+  text-align: center;
+}
